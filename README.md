@@ -1,10 +1,10 @@
 # mobile-money-transaction-system-assembly-project
-16bit micropocessor 8086 software project.
+16bit microprocessor 8086 software project.
 To run use EMU8086 emulator.
 
 Some important information:
 
-i) In this project, no multiple digit addition or suntraction apply for balance calculation to measure complexity of the project.
+i) In this project, no multiple digit addition or subtraction apply for balance calculation to measure the complexity of the project.
 
 ii) If you want to implement it and ask for help from me, then contact me via mail: mominulhaquemim13@gmail.com
 
